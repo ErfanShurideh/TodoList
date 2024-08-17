@@ -84,4 +84,3 @@ function checkTodo (e){
   todo.isCompleted = !todo.isCompleted;
   filterTodos();
 }
-
